@@ -1,4 +1,4 @@
-/* General Reset */
+
 * {
     margin: 0;
     padding: 0;
@@ -12,7 +12,6 @@ body {
     line-height: 1.6;
 }
 
-/* Header */
 header {
     background: #1e1e24;
     color: #fff;
@@ -63,7 +62,7 @@ nav a:hover {
     background: #e0b27d;
 }
 
-/* Hero Section */
+
 .hero {
     background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
     url('https://images.unsplash.com/photo-1529699211952-734e80c4d42b?auto=format&fit=crop&w=1200&q=80') no-repeat center center/cover;
@@ -99,7 +98,7 @@ nav a:hover {
     background: #e0b27d;
 }
 
-/* Main Products Layout */
+
 .container {
     max-width: 1200px;
     margin: 3rem auto;
@@ -214,7 +213,7 @@ nav a:hover {
     width: 100%;
 }
 
-/* Footer */
+
 footer {
     text-align: center;
     background: #1e1e24;
